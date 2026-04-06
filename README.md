@@ -3,8 +3,11 @@ R Programming – Academic Coursework Repository
 --Student Information
 
 Name: Zahra Sohani
+
 Program: BSc Data Science
+
 Subject: R Programming 
+
 Academic Year: 2025-2028
 
 --Introduction
@@ -140,4 +143,4 @@ This repository is created strictly for educational and assessment purposes, adh
 --Contact
 
 For any clarifications or academic review:
-Email: zahra.sohani140800@marwadiuniversit.ac.in
+Email: zahra.sohani140800@marwadiuniversity.ac.in
