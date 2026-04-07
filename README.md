@@ -10,100 +10,96 @@ Subject: R Programming
 
 Academic Year: 2025-2028
 
---Introduction
+--Description
 
-This repository contains the complete set of programs, exercises, and practice tasks undertaken as part of the R Programming curriculum.
-The primary goal of this repository is to demonstrate the ability to:
+This repository contains a well-structured collection of R programming programs developed as part of the B.Sc Data Science Semester 2 coursework. It covers practical implementation of data handling, visualization, and statistical analysis using real-world datasets.
 
-Write clean and structured R code
-Use R for data handling and visualization
-Understand core programming concepts
-Apply statistical techniques using R
-Work with datasets in a real-world context
+--Objectives
 
-This repository reflects both concept mastery and practical implementation skills essential for computational thinking and data analysis.
+-To learn and apply core concepts of R programming
+-To perform data analysis using CSV and JSON files
+-To visualize data using different types of graphs
+-To apply statistical formulas and techniques
+-To develop real-world problem-solving skills
 
---Learning Objectives
+--Tools & Technologies Used
 
-Through this coursework, the following competencies are demonstrated:
+-R Programming Language
+-RStudio
+-GitHub for version control
 
-- Programming Fundamentals
-Understanding R syntax
-Working with variables, operators, and expressions
-Implementing conditional logic and loops
+--Folder Structure
 
-- Data Handling & Manipulation
-Creating and modifying data structures
-Importing and exporting data
-Cleaning and preparing datasets
+R_Programming/
+│── README.md
+│── Unit1_Basics/
+│── Unit2_DataHandling/
+│── Unit3_Visualization/
+│── Unit4_Statistics/
+│── CaseStudy/
+│── Outputs/
 
-- Data Visualization
-Designing meaningful charts and graphs
-Representing data using barplots, histograms, line charts, scatterplots, and more
-Annotating and customizing visual outputs
+--Programs Included
 
-- Statistical Computing
-Computing central tendencies (mean, median, mode)
-Measuring spread (variance, standard deviation)
-Correlation and covariance
-Simple regression (if applicable)
+- Unit 1: Basics of R
+Introduction to R environment
+Variables and data types
+Operators and basic syntax
 
-- Problem Solving Using R
-Writing user-defined functions
-Implementing logical workflows
-Breaking down problems into executable code segments
+- Unit 2: Data Handling
+Reading CSV files into data frames
+Reading JSON files into data frames
+Extracting specific rows and columns
+Displaying last 5 rows of dataset
+Data manipulation and filtering
 
---Repository Contents
+- Unit 3: Data Visualization
+Pie Chart creation with parameters
+Histogram creation
+Bar Chart visualization
+Line Graph and Multi-line Graph
+Visualization using real datasets
 
-The repository contains multiple .r files covering various topics across the syllabus.
-For clarity, these files can be considered under the following categories:
+- Unit 4: Statistical Analysis
+Mean Absolute Deviation
+Sample Variance
+Standard Deviation
+Data analysis using formulas
+Interpretation of statistical results
 
-1. Basic R Programming
-Introduction to R console
-Operators: arithmetic, relational, logical
-Control structures: if, else, switch
-Looping constructs: for, while, repeat.
+- Additional Programs
+Movie dataset dataframe creation
+Filtering movies based on actor/actress
+Finding top revenue movies
+Filtering by year and rating
 
-2. R Data Structures
-Creating and manipulating:
-Vectors
-Lists
-Matrices
-Arrays
-Data Frames
-Factors
+--Case Study: AI Job Market Analysis
 
-3. Data Management
-Reading CSV and text files
-Writing datasets to files
-Renaming, selecting, filtering, and arranging data
+This repository includes a detailed case study based on AI Job Market data.
 
-4. Graphical Representation of Data
-Bar chart, pie chart, histogram
-Boxplot, line plot, scatter plot
-Label customization, color themes, legends
+Case Study Contents:
+-Dataset (AI Job Market data)
+-Data cleaning and preprocessing
+-Graphical analysis (charts & plots)
+-Statistical calculations
+-Insights and conclusions
 
-5. Statistical Analysis Scripts
-Descriptive statistics
-Covariance, correlation
-Linear regression (if included)
+--Outputs
 
-6. Function-Based Programs
-Basic functions
-Argument passing
-Returning multiple values
+All outputs such as graphs, charts, and console results are stored in the Outputs/ folder for better understanding and visualization.
 
 --How to Run the Programs
 
 Follow these steps:
 
-Install R and RStudio
+-Install R and RStudio
 
-Clone the repository:
-
+-Clone the repository:
 git clone https://github.com/zahrasohani140800-byte/R_Programming.git
-Open the desired .r file
-Click Run or execute line-by-line
+
+-Open the desired .r file
+
+-Click Run or execute line-by-line
 
 --Install required packages (if any):
 
@@ -122,6 +118,15 @@ To ensure readability and academic quality, all programs follow:
 -Inline comments explaining key steps
 -Modular coding structure
 -Clean output formatting
+
+--Highlights
+
+- 20+ R Programs with proper structure
+- CSV & JSON data handling
+- Data Visualization (Pie, Histogram, Bar, Line)
+- Statistical Analysis Programs
+- Real-world Case Study (AI Job Market)
+- Well-documented and easy-to-understand code
 
 --Summary of Skills Demonstrated
 
