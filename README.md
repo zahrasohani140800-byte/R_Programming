@@ -145,6 +145,9 @@ This directly aligns with learning outcomes of the Foundation Skills subject.
 
 This repository is created strictly for educational and assessment purposes, adhering to the syllabus requirements of the R Programming component of the CSE Foundation Skills curriculum.
 
+--View full case study
+https://github.com/zahrasohani140800-byte/R_Programming/tree/main/Case%20Study
+
 --Contact
 
 For any clarifications or academic review:
